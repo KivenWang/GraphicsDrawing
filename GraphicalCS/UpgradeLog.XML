@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="GraphicalCS">
+</Property><Property Name="Solution File" Value="D:\data\FILE\study\Visual Studio Projects\GraphicalCS\GraphicalCS.sln">
+</Property><Property Name="Date" Value="2007年4月17日">
+</Property><Property Name="Time" Value="20:47">
+</Property></Properties><Event ErrorLevel="0" Project="GraphicalCS" Source="GraphicalCS.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="GraphicalCS" Source="GraphicalCS.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="GraphicalCS.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="GraphicalCS.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GraphicalCS" Source="GraphicalCS.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,11 @@
+C:\Users\14611\Desktop\师兄\GraphicalCSCode\GraphicalCS\obj\Debug\GraphicalCS.exe
+C:\Users\14611\Desktop\师兄\GraphicalCSCode\GraphicalCS\obj\Debug\GraphicalCS.pdb
+C:\Users\14611\Desktop\师兄\GraphicalCSCode\GraphicalCS\bin\Debug\GraphicalCS.exe
+C:\Users\14611\Desktop\师兄\GraphicalCSCode\GraphicalCS\bin\Debug\GraphicalCS.pdb
+C:\Users\14611\Desktop\师兄\GraphicalCSCode\GraphicalCS\obj\Debug\GraphicalCS.csprojResolveAssemblyReference.cache
+C:\Users\14611\Desktop\师兄\GraphicalCSCode\GraphicalCS\obj\Debug\GraphicalCS.About.resources
+C:\Users\14611\Desktop\师兄\GraphicalCSCode\GraphicalCS\obj\Debug\GraphicalCS.CircleForm.resources
+C:\Users\14611\Desktop\师兄\GraphicalCSCode\GraphicalCS\obj\Debug\GraphicalCS.Example.resources
+C:\Users\14611\Desktop\师兄\GraphicalCSCode\GraphicalCS\obj\Debug\GraphicalCS.MainWindow.resources
+C:\Users\14611\Desktop\师兄\GraphicalCSCode\GraphicalCS\obj\Debug\GraphicalCS.NewForm.resources
+C:\Users\14611\Desktop\师兄\GraphicalCSCode\GraphicalCS\obj\Debug\GraphicalCS.csproj.GenerateResource.Cache
